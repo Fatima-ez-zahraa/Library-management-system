@@ -71,7 +71,7 @@ http://localhost:4200
 ## 👤 Comptes de Test
 
 ### Administrateur
-- **Email:** admin@example.com
+- **Email:** admin@admin.com
 - **Rôle:** Administrateur
 - **Accès:** Toutes les fonctionnalités
 
@@ -160,23 +160,6 @@ L'application est entièrement responsive et s'adapte à tous les écrans :
 - [ ] Interface de recherche avancée
 - [ ] Système de recommandations
 
-## 🤝 Contribution
-
-1. Fork le projet
-2. Créer une branche pour votre fonctionnalité
-3. Commiter vos changements
-4. Pousser vers la branche
-5. Ouvrir une Pull Request
-
-## 📄 Licence
-
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
-
-## 📞 Support
-
-Pour toute question ou problème, veuillez ouvrir une issue sur GitHub.
-
----
 
 **Développé avec ❤️ pour la gestion moderne de bibliothèques**
 >>>>>>> e285092 (@fatimaezzahraa)
